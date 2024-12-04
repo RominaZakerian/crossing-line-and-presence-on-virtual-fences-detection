@@ -13,6 +13,7 @@ For reaching this result, Run the line_count.py.
 Enter your custom video path in the code and also the coordinates of the lines.
 
 
+
 The result for presence on virtual fences is shown as below:
 
 https://github.com/user-attachments/assets/b92ccc49-3dda-487a-866a-6f676e62242e
@@ -23,6 +24,7 @@ And if there is not any person in the fence, the color will be green and the num
 For reaching this result, Run the fences.py. 
 Enter your custom video path in the code and also the coordinates of the fences.
 Another feature of this code is that you can move the virtual fence area with a mouse click and move it to different locations in the video and  have the number of person that are present in the fence.
+
 
 
 If you have any question, please don't hesitate to ask me. 
