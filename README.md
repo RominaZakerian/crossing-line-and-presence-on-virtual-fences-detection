@@ -9,6 +9,8 @@ https://github.com/user-attachments/assets/f5a36799-ce53-45a8-b43c-486729c52616
 As you can see, this code, each person is detected with a bounding box and assigns a unique ID for each person in the video (tracking part) and after crossing the line, the line color is changed to red and remains until 3 seconds. 
 
 
+
+
 The result for presence on virtual fences is shown as below:
 
 https://github.com/user-attachments/assets/b92ccc49-3dda-487a-866a-6f676e62242e
