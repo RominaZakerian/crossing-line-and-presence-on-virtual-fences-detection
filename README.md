@@ -3,6 +3,10 @@ detecting crossing line and presence on virtual fences using object tracking mod
 
 In this project, I implemented the detection of the crossing a virtual line and presence on the virtual fences using object detection and object tracking models.
 The coordinates of the line and virtual fences were given in the policy.json file.
+
+The python libraries that need to be installed is shown in requirement.txt.
+
+
 The result for detecting crossing line is shown as below:
 
 https://github.com/user-attachments/assets/f5a36799-ce53-45a8-b43c-486729c52616
